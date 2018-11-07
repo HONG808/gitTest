@@ -9,6 +9,7 @@
 <body>
 <%
 	String message="밖이 시끄럽군 허허";
+	String name="5시가 넘어버렸어";
 %>
 </body>
 </html>
